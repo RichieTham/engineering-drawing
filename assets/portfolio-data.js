@@ -8,7 +8,7 @@
 
 window.PORTFOLIO_DATA = {
   profile: {
-    name: "Tham Weng Hung",
+    name: "Tham Weng Hung (Richie)",
     role: "Drafter · Product Design Engineer",
     location: "Singapore",
     email: "rthamwh@gmail.com",
